@@ -42,6 +42,8 @@ Favorite Apps:
   - Autofill username and password into any website
   - Search saved logins and notes
 
+My App Idea: I would like to build an organization/notes app where the user grows a tree containing their thoughts, ideas, projects, etc. Each branch represents a specific category and they can add notes within that category as leaves or sub-branches. So, for example, there could be one branch labelled "Work" with sub-branches for "Meetings", "Projects", and "Reminders." There could be another branch labelled "School" with sub-branches for classes, and leaves on those branches representing notes from individual class sessions. Users would be able to write, draw, and upload different file types to the leaves and branches. The tree should be visually appealing with optional customizations available like adding vines, flowers, and birds. That way, the app can be fun as well as useful. I would have to design it carefully so the decorative elements aren't too distracting. In addition, there could be a feature to mark tasks as complete or incomplete and set a time limit. Branches could start to visibly "wilt" if too many tasks aren't completed in time, and get better once they are marked off.
+
 ## Notes
 
 The biggest challenge when building this app was nagivating XCode's menus and linking to Github.
