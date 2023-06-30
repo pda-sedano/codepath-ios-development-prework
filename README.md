@@ -31,11 +31,16 @@ GIF created with ...
 Favorite Apps:
 
 1. Discord
-  - Searching messages
-  - Creating group chats between multiple members
-2. Chess.com
-  - Viewing archive of all old chess games
-  - 
+  - Search messages
+  - Create group chats between multiple members
+2. Lichess
+  - View archive of all old chess games
+  - Free game analysis feature
+  - Set up custom positions
+3. Bitwarden
+  - Convenient biometric login
+  - Autofill username and password into any website
+  - Search saved logins and notes
 
 ## Notes
 
