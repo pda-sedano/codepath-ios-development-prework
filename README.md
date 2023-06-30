@@ -4,7 +4,7 @@ Submitted by: Perrin Alaine-Sedano
 
 Color Changer is a highly complex app using cutting-edge technologies that allow you to change its background and text colors to randomized values at the press of a button. Not only that, but you can also reset them to the defaults.
 
-Time spent: 2 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
