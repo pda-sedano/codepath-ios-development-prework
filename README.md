@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[Imgur](https://i.imgur.com/6qqQOww.gif)
+![Giphy](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Nqb25taGhjM21jYTEwYW5rdWplMGJuaWpjNmV6dW1vNm9yamlhdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zVcWqvrVmMVCGOck9Y/giphy-downsized-large.gif)
 
 GIF created with [Kap](https://getkap.co/).
 
