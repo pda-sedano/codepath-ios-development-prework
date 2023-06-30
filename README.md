@@ -41,7 +41,7 @@ My App Idea: I would like to build an organization/notes app where the user grow
 
 ## Notes
 
-The biggest challenge when building this app was navigating XCode's menus and linking to Github.
+The biggest challenges when building this app were actually not related to coding. I had the hardest time navigating XCode's menus, linking to Github, and getting the GIF to display.
 
 ## License
 
